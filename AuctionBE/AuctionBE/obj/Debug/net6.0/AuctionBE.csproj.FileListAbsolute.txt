@@ -1,0 +1,5 @@
+C:\Users\Darshan BG\myproject\ABBAuctionHouse\AuctionBE\AuctionBE\obj\Debug\net6.0\AuctionBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshan BG\myproject\ABBAuctionHouse\AuctionBE\AuctionBE\obj\Debug\net6.0\AuctionBE.AssemblyInfoInputs.cache
+C:\Users\Darshan BG\myproject\ABBAuctionHouse\AuctionBE\AuctionBE\obj\Debug\net6.0\AuctionBE.AssemblyInfo.cs
+C:\Users\Darshan BG\myproject\ABBAuctionHouse\AuctionBE\AuctionBE\obj\Debug\net6.0\AuctionBE.csproj.CoreCompileInputs.cache
+C:\Users\Darshan BG\myproject\ABBAuctionHouse\AuctionBE\AuctionBE\obj\Debug\net6.0\AuctionBE.MvcApplicationPartsAssemblyInfo.cache
